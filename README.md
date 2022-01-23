@@ -16,4 +16,4 @@ store your projects metadata
 
 data are stored on localstorage  
 
-after clicking add project refresh browser to see made changes
+ 
