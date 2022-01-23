@@ -1,0 +1,43 @@
+#modal {
+  width: 50vw;
+  height: 190vh;
+  background: #333;
+  position: absolute;
+  top: 10%;
+  left: 20%;
+  color: teal;
+  border-radius: 5px;
+  border: 1px solid teal;
+}
+
+#modal * {
+  text-transform: uppercase;
+}
+#modal input,
+textarea {
+  background: teal;
+  border: 1px solid white;
+  width: 40vw;
+}
+
+#modal textarea {
+  height: 15vh;
+}
+
+#modal input {
+  height: 2vw;
+  font-size: 20px;
+  border-radius: 5px;
+}
+#modal > p {
+  font-size: 30px;
+  text-transform: uppercase;
+}
+.btn-close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 20px;
+  background: teal;
+  color: white;
+}

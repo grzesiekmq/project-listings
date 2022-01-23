@@ -1,0 +1,21 @@
+.item {
+  width: 100vw;
+  height: 150vh;
+  background: #36393f;
+  border-radius: 5px;
+  border: 1px solid #333;
+}
+
+.item {
+  margin: 5px;
+}
+
+.item p {
+  font-size: 30px;
+}
+.item > .info {
+  text-transform: uppercase;
+  font-size: 30px;
+  font-weight: bold;
+  color: teal;
+}
