@@ -15,3 +15,5 @@ store your projects metadata
 **live version** - link to live version  
 
 data are stored on localstorage  
+
+after clicking add project refresh browser to make changes
