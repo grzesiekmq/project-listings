@@ -54,6 +54,10 @@ export function addProject(add) {
       projects.push(obj);
 
       localStorage.setItem("projects", JSON.stringify(projects));
+
+      listProjects(listing);
     }
   });
+
+
 }
